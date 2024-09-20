@@ -1,0 +1,1 @@
+RSVP production house is planning a movie to release worldwide so they want best advice for their movie to begin such as which genre is good and which actors are top based on that they are going to start the movie i have written some importatnt queries which gives the solution for them
